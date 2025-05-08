@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-satyr
+  x-cortex-tag: monster-satyr
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: fey
+    challenge_rating: 0.5
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
